@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Prepare Luggage",
+      "time": "1:30 a.m. 8th Aug. 2023",
+      "reminder": false
+    },
+    {
+      "text": "Book Hotel",
+      "time": "3:30 a.m. 8th Aug. 2023",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
